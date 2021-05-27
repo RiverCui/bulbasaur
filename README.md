@@ -1,6 +1,28 @@
-# bulbasaur  
-make a bulbasaur!  
+#bulbasaur  
+  
 制作一个妙蛙种子！  
----  
-[preview1](https://rivercui.github.io/bulbasaur/dist/index.html)  
-[preview2](https://rivercui.github.io/bulbasaur/dist/test.html)  
+  
+make a bulbasaur!  
+  
+---
+  
+#develop    
+```  
+yarn global add parcel-bundler
+parcel src/*.html
+```  
+  
+---
+  
+#build  
+```
+yarn build
+```
+  
+---
+  
+#preview  
+  
+[预览地址](https://rivercui.github.io/bulbasaur/dist/index.html)  
+
+[动态展示](https://rivercui.github.io/bulbasaur/dist/test.html)
